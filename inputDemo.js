@@ -8,5 +8,5 @@ let output = document.getElementById("myText").value;
 
   alert(output);
 
-  document.getElementByID("output").innerHTML = "You entered: " + output;
+  document.getElementById("output").innerHTML = "You entered: " + output;
 }
