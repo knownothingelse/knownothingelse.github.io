@@ -1,4 +1,4 @@
-console.log("JS" File Was loaded");
+console.log("JS File Was loaded");
 
 // 35.2176665 N, 80.831473 -> 35.2176665, -80.831473
 
