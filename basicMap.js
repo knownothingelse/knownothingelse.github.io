@@ -15,5 +15,5 @@ let marker = L.marker(
     [35.2176665, -80.831473], {
         title: "CPCC Central Campus"
     }
-).bindPopup(`<h2>Hello from CPCC!</h2><hr><iframe width="853" height="480" src="https://www.youtube.com/embed/SIOicrto1yw" title="CPCC - Central Piedmont Community College -Charlotte NC (4K)(DJI Mavic Pro Footage) Aerial Charlotte" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`)
+).bindPopup(`<h2>Hello from CPCC!</h2><hr><iframe width="280" height="160" src="https://www.youtube.com/embed/SIOicrto1yw" title="CPCC - Central Piedmont Community College -Charlotte NC (4K)(DJI Mavic Pro Footage) Aerial Charlotte" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`)
 .addTo(map);
